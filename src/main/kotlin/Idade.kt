@@ -7,6 +7,6 @@ fun main() {
     val resul = 2022 - idade
 
 
-    println("Olá, seu nome é $nome e nasceu em $resul")
+    println("Você nasceu no ano de $resul")
 }
 
